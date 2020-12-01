@@ -6,12 +6,12 @@ read -p "Enter a positive number: " NUM
 count=1
 while [ $count -le "$NUM" ]
 do
-	if [ $(($count%2)) -eq 0 ]
+	if [ $((count%2)) -eq 0 ]
 	then
 		echo "$count Even"
 	else
 		echo "$count Odd"
 	fi
-	count=$(($count+1))
+	count=$((count+1))
 done
 
