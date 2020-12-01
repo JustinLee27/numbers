@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: Justin Lee 
+2. Student ID: 2371816 
+3. Email: justlee@chapman.edu
+4. Class: CPSC298
 5. Assignment: numbers 
 
 ## Application Purpose
